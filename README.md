@@ -1,6 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgowoonsori)](https://hits.seeyoufarm.com)
+### Hong Eui Sung --@gowoonosori
+
+👋 Hi! Welcome to my GitHub place.
+I am a student studying in South,Korea to be a good developer.
+I am interested in web technologies and network.
+
+
+### 🔭 Languages & Frameworks
+- C++ 
+- JavaScript / node.js
   
-  ## Interest
+### Interest
   - Bloging
   - Network knowledge
   - Web 
