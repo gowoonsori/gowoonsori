@@ -6,11 +6,11 @@ I am a student studying in South,Korea to be a good developer.
 I am interested in web technologies and network.
 
 
-### 🔭 Languages & Frameworks
+### 💻 Languages & Frameworks
 - C++ 
 - JavaScript / node.js
   
-### Interest
+### ⚡ Interest
   - Bloging
   - Network knowledge
   - Web 
