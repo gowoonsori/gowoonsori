@@ -11,7 +11,6 @@ I am interested in web technologies and network.
 - JavaScript / node.js
   
 ### ⚡ Interest
-  - Bloging
   - Network knowledge
   - Web 
   - Algorithm
