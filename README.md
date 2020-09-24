@@ -2,7 +2,9 @@
 ### Hong Eui Sung --@gowoonosori
 
 👋 Hi! Welcome to my GitHub place.
-I am a student studying in South,Korea to be a good developer.
+
+I am a student studying in South, Korea to be a good developer.
+
 I am interested in web technologies and network.
 
 
