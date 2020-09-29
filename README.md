@@ -3,7 +3,7 @@
 
 👋 Hi! Welcome to my GitHub place.
 
-I am a student studying in South, Korea to be a good developer.
+I am a student who studies to become a great engineer.
 
 ### 💻 Languages & Frameworks
 - C++ 
