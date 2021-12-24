@@ -11,7 +11,6 @@ I am a student who studies to become a great engineer.
 - JavaScript
   
 ### ⚡ Interest
-  - Network / Web knowledge
   - Spring Framework
   - Go
   - Blogging
