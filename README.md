@@ -3,8 +3,6 @@
 
 👋 Hi! Welcome to my GitHub place.
 
-I am a student who studies to become a great engineer.
-
 ### 💻 Languages & Frameworks
 - Java 
 - Go
