@@ -8,7 +8,6 @@ I am a student who studies to become a great engineer.
 ### 💻 Languages & Frameworks
 - Java 
 - Go
-- JavaScript
   
 ### ⚡ Interest
   - Spring Framework
