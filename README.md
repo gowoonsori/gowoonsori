@@ -1,11 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgowoonsori)](https://hits.seeyoufarm.com)
 ### EuiSeong Hong --@gowoonosori
 
 👋 Hi! Welcome to my GitHub place.
 
 ### 💻 Languages
 - Java 
-- Go
 - JS
 - PHP
   
